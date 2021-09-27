@@ -27,3 +27,5 @@ In order to advance sentiment analysis applications in the domain of crude oil, 
 In general, sentiment analysis of headlines from crude oil through CrudeBERT could be a viable source of insight for the price behaviour of WTI crude oil. 
 However, further research is required to see if CrudeBERT can serve as beneficial for predicting oil prices. 
 For this matter, it is made publicly available on the Hugging Face platform [https://huggingface.co/Captain-1337/CrudeBERT] for future research. 
+
+*The thesis itself will be published in the following days.
