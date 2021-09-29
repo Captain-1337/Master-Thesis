@@ -5,7 +5,7 @@
 The focus of this thesis deals with the task of research and development of state-of-the-art sentiment analysis methods, which can potentially provide helpful quantification of news that can be used to assess the future price movements of crude oil. 
 
 CrudeBERT is a pre-trained NLP model to analyze sentiment of news headlines relevant to crude oil. 
-It was developed by fine tuning [FinBERT: Financial Sentiment Analysis with Pre-trained Language Models](https://arxiv.org/pdf/1908.10063.pdf)
+It was developed by fine tuning [FinBERT: Financial Sentiment Analysis with Pre-trained Language Models](https://arxiv.org/pdf/1908.10063.pdf).
 
 ![CrudeBERT comparison_white](https://user-images.githubusercontent.com/42164041/135240115-3e3964d1-87fb-47ac-bbe3-6a1a3c2ab057.png)
 
