@@ -7,6 +7,8 @@ The focus of this thesis deals with the task of research and development of stat
 CrudeBERT is a pre-trained NLP model to analyze sentiment of news headlines relevant to crude oil. 
 It was developed by fine tuning [FinBERT: Financial Sentiment Analysis with Pre-trained Language Models](https://arxiv.org/pdf/1908.10063.pdf)
 
+(https://user-images.githubusercontent.com/42164041/135239752-1ae16cf4-1cba-45ce-9164-aa4281310330.png)
+
 Performing sentiment analysis on the news regarding a specific asset requires domain adaptation. 
 Domain adaptation requires training data made up of examples with text and its associated polarity of sentiment. 
 The experiments show that pre-trained deep learning-based sentiment analysis can be further fine-tuned, and the conclusions of these experiments are as following: 
@@ -20,7 +22,8 @@ News can convey information about these direction changes and can broadly be ide
 For this purpose, news headlines tend to be rich enough in content to provide insights into supply and demand changes. 
 Even when significantly reducing the number of headlines to more reputable sources. 
 
-Domain adaptation can be achieved to some extend by analyzing the properties of the target through literature review and creating a corresponding training dataset to fine-tune the model. 
+Domain adaptation can be achieved to some extend by analyzing the properties of the target through literature review and creating a corresponding training dataset to fine-tune the model. ![CrudeBERT comparison]
+
 For example, considering supply and demand changes regarding crude oil seems to be a suitable component for a domain adaptation.  
 
 In order to advance sentiment analysis applications in the domain of crude oil, this paper presents CrudeBERT. 
